@@ -18,4 +18,4 @@ SECRET_KEY = [jwt_secret_key]
 ```
 ## Related Project
 
-- [`Frontend-Zwallet`](https://github.com/safiratrisa/FrontEnd-React-Todo)
+- [`Frontend`](https://github.com/safiratrisa/FrontEnd-React-Todo)
